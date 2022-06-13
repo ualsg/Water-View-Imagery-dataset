@@ -26,11 +26,14 @@ A total of **15 categories** are selected for annotation, namely:
 
 ## Example
 
-<!-- ![Segmentation_results](https://github.com/ualsg/Water-View-Imagery-dataset/blob/main/label.jpg) -->
+<!-- ![label](https://github.com/ualsg/Water-View-Imagery-dataset/blob/main/label.jpg?raw=true) -->
 
 <div align=center>
-<img src="https://github.com/ualsg/semantic-riverscapes-dataset/blob/main/Segmentation_results.jpg" width="600px">
+<img src="https://github.com/ualsg/Water-View-Imagery-dataset/blob/main/label.jpg?raw=true" width="600px">
 </div>
+
+
+
 
 
 ## Access
