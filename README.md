@@ -26,14 +26,15 @@ A total of **15 categories** are selected for annotation, namely:
 
 ## Example
 
-<!-- ![Segmentation_results](https://github.com/ualsg/semantic-riverscapes-dataset/blob/main/Segmentation_results.jpg) -->
+<!-- ![Segmentation_results](https://github.com/ualsg/Water-View-Imagery-dataset/blob/main/label.jpg) -->
+
 <div align=center>
 <img src="https://github.com/ualsg/semantic-riverscapes-dataset/blob/main/Segmentation_results.jpg" width="600px">
 </div>
 
 
 ## Access
-This dataset is available for download on [Google Drive](https://drive.google.com/file/d/1gzTm4P3UFSKJ-v4g4Br2vuTQwSQRRYWC/view?usp=sharing).
+This dataset is available for download on [Google Drive](https://drive.google.com/file/d/1VPEbGogTXjLLkVh7ssJoIfjUUd6dKB32/view?usp=sharing).
 
 ## Reference, citation, and documentation
 If you use Water View Imagery dataset in your research, please attribute the source of this dataset.
