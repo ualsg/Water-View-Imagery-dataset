@@ -5,7 +5,7 @@
 </div>
 
 ## Introduction
-We capture and segment a new dataset of on-water perspectives, which is designed for semantic segmentation of water level scenarios and can assist waterscape-related segmentation applications. We name it Water View Imagery dataset, and it contains 500 high-resolution images and each segmented imagery with a size of 2048 x 1536 pixels. These images in this dataset come from the Mapillary platform, and these are from 8 cities' water areas: Amsterdam, Bangkok, Chicago, Istanbul, Japan, London, Paris, and Venice.
+We capture and segment a new dataset of on-water perspectives, which is designed for semantic segmentation of water level scenarios and can assist waterscape-related segmentation applications. We name it Water View Imagery dataset, and it contains 500 high-resolution images and each segmented imagery with a size of 2048 x 1536 pixels. These images in this dataset come from the [Mapillary](https://www.mapillary.com/) platform, and these are from 8 cities' water areas: Amsterdam, Bangkok, Chicago, Istanbul, Japan, London, Paris, and Venice.
 A total of **15 categories** are selected for annotation, namely: 
 
 * water 
