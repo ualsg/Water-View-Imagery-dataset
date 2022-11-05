@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Luo"
+  given-names: "Junjie"
+  orcid: "https://orcid.org/0000-0002-7112-3759"
+  affiliation: "Tianjin University"
+- family-names: "Zhao"
+  given-names: "Tianhong"
+  orcid: "https://orcid.org/0000-0002-9290-2049"
+  affiliation: "Shenzhen University"
+- family-names: "Cao"
+  given-names: "Lei"
+  affiliation: "Tianjin University"
+- family-names: "Biljecki"
+  given-names: "Filip"
+  orcid: "https://orcid.org/0000-0002-6229-7749"
+  affiliation: "National University of Singapore, Singapore"
+title: "Water View Imagery: Perception and evaluation of urban waterscapes worldwide"
+version: 1.0
+date-released: 2022-11-05
+url: "https://github.com/ualsg/Water-View-Imagery-dataset"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Luo"
+    given-names: "Junjie"
+    orcid: "https://orcid.org/0000-0002-7112-3759"
+    affiliation: "Tianjin University"
+  - family-names: "Zhao"
+    given-names: "Tianhong"
+    orcid: "https://orcid.org/0000-0002-9290-2049"
+    affiliation: "Shenzhen University"
+  - family-names: "Cao"
+    given-names: "Lei"
+    affiliation: "Tianjin University"
+  - family-names: "Biljecki"
+    given-names: "Filip"
+    orcid: "https://orcid.org/0000-0002-6229-7749"
+    affiliation: "National University of Singapore, Singapore"
+  doi: "10.1016/j.ecolind.2022.109615"
+  journal: "Ecological Indicators"
+  title: "Water View Imagery: Perception and evaluation of urban waterscapes worldwide"
+  start: 109615
+  volume: 145
+  year: 2022
